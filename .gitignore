@@ -1,0 +1,18 @@
+# .gitignore — Meme Sprint 3: AI Agent Goes Rogue
+# Entry u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6
+# The meme is generated, never checked in as a binary:
+# main.py draws /output/entry.png fresh on every run.
+# Local test renders (OUTPUT_PATH overrides) stay out of the repo:
+/tmp/meme-*.png
+entry-test.png
+entry.png
+/output/
+
+# Python bytecode and caches from local test runs:
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Editor swap files, nothing else:
+*.swp
+*~
