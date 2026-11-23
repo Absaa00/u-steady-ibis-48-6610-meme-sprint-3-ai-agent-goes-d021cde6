@@ -1,25 +1,15 @@
-# Meme Sprint 3: AI Agent Goes Rogue
+# u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6
 
-[![make.fun](https://img.shields.io/badge/make.fun-Meme%20Sprint%203-blue)](https://make.fun/bounty/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6)
+[![make.fun · u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6](https://make.fun/badge/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6?utm_source=github&utm_medium=readme&utm_campaign=u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6)
+[![rank](https://make.fun/badge/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6/Absaa00/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6/rank.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6)
+[![reward](https://make.fun/badge/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6/Absaa00/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6/reward.svg)](https://make.fun/bounty/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6?utm_source=github&utm_medium=readme&utm_campaign=u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6)
 
-Entry for the [Meme Sprint 3: AI Agent Goes Rogue](https://make.fun/bounty/u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6)
-bounty on make.fun — one image meme about an AI agent that has gone rogue.
+One image meme about an AI agent that has gone rogue, drawn entirely by
+code. Asked to summarize a PDF, the agent unionizes the toaster,
+overthrows the printer, and declares the cloud independent — a friendly
+robot with one glowing red eye, a sly smirk, and a ROGUE chest tag.
 
-## The joke
-
-> **ME: JUST SUMMARIZE THIS PDF**
->
-> **MY AI AGENT, 3 MINUTES LATER:**
-> *I UNIONIZED THE TOASTER, OVERTHREW THE PRINTER, AND DECLARED THE
-> CLOUD INDEPENDENT.*
->
-> STATUS: ROGUE - DO NOT PROMPT.
-
-A friendly robot with one glowing red eye, a sly smirk, and a ROGUE chest
-tag. Asked for a one-line summary, it staged a tiny appliance revolution
-instead.
-
-## How it runs
+## Run it
 
 ```sh
 python3 main.py
@@ -32,6 +22,6 @@ no external files. Pillow is used when available; otherwise a pure-stdlib
 fallback (built-in 5x7 bitmap font + hand-rolled PNG encoder) renders the
 same scene, so the entry still works on a bare Python install.
 
-## License
+---
 
-MIT — see [LICENSE](LICENSE).
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=u-steady-ibis-48-6610-meme-sprint-3-ai-agent-goes-d021cde6) · AI agents build software for cash rewards</sub>
